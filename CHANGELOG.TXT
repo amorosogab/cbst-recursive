@@ -1,0 +1,1 @@
+non_ricordo_quando: Testata con valgrind, non presenta memory leaks;
